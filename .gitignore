@@ -46,3 +46,6 @@ wp-config.php
 # Note: If you wish to whitelist themes,
 # uncomment the next line
 #/wp-content/themes
+
+# just in case, putting .env to try to make sure we can keep secrets
+.env
